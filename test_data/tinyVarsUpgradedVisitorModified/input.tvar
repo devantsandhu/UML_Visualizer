@@ -1,0 +1,6 @@
+new x;
+set x, 42;
+print x;
+alias y, x;
+set y, 7;
+print x;
